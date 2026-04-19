@@ -2,7 +2,6 @@
 
 A curated baseline list of Paperclip plugins, companion repositories, integrations, and operator surfaces.
 
-This baseline uses the official core repository [`paperclipai/paperclip`](https://github.com/paperclipai/paperclip) in place of `Ola-Turmo/paperclip`.
 
 Total: **35** repositories.
 
